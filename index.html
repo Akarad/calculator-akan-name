@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Akan Name Calculator</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <div class="container">
+
+<!-----Start Navigation----->
+      <div class="navbar">
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+          <button class="navbar-toggler" type="button" name="button" data-toggle="collapse" data-target="navbarResponsive">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto" >
+              <li class="nav-item">
+                <a class="nav-link" href="index.html">HOME</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="about.html">ABOUT</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+
+<!-----End Navigation----->
+
+<!------Start Landing Page---->
+
+      <div class="landing">
+        <div class="home-wrap">
+          <div class="home-inner">
+            <img src="images/ghana.jpg" alt="Ghana flag">
+          </div>
+        </div>
+      </div>
+
+      <div class="caption text-center">
+        <h1>AKAN NAME CALCULATOR</h1>
+      </div>
+
+      <div class="jumbotron text-center">
+        <p>Hello there! did you know that the <a href="https://en.wikipedia.org/wiki/Akan_people">Akan people</a> of Ghana have a unique styling method? This West African tribe names their children after the day of the week they were born.Now that you know this fact,feel free to calculate your 'day name'below. </p>
+      </div>
+
+<!------End Landing Page---->
+
+    <div class="column">
+      <img src="images/akanwoman.png" alt="Ghanaian woman illustration">
+    </div>
+
+    <div class="column">
+      <div class="wrapper">
+        <h2>Calculator</h2>
+        <form  id="my-form" name = "myForm" action="#" method="get">
+          <div class="input-field">
+            <label for="date">DATE</label>
+            <input type="text" name="date" placeholder="dd" id="date">
+          </div>
+          <div class="input-field">
+            <label for="month">MONTH</label>
+            <input type="text" name="month" placeholder="mm" id="month">
+          </div>
+          <div class="input-field">
+            <label for="year">YEAR</label>
+            <input  type="text" name="year" placeholder="yyyy"  id="year">
+          </div>
+          <div class="input-field">
+            <input type="radio" name="gender" value="male" id="male" checked>
+            <label for="male">Male</label>
+            <input type="radio" name="gender" value="female" id="female">
+            <label for="female">Female</label>
+          </div>
+          <button onclick="return validateForm()" class="btn btn-outline-dark btn-sm btn-center type="submit" name="button">CHECK NAME</button>
+        </form>
+      </div>
+    </div>
+
+    <div class="column">
+      <img src="images/akanman.png" alt="Ghanaian man illustration">
+    </div>
+
+    <script src="js/scripts2.js"></script>
+  </body>
+</html>

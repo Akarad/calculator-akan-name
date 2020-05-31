@@ -1,0 +1,101 @@
+/*-----Start Navbar Css---------*/
+.navbar{
+  font-size: .9rem;
+  font-weight: bold;
+  letter-spacing: .1rem;
+  background: rgba(0, 0, 0, 0.6)!important;
+  height: 3.1rem;
+}
+
+.nav-link{
+  color: white;
+  padding-top: .8rem;
+}
+/*-----End Navbar Css---------*/
+
+/*-----start landing page---------*/
+.caption h1{
+  font-size: 2rem;
+  font-weight: bolder;
+  letter-spacing: .3rem;
+  color: yellow;
+  text-shadow: .1rem .1rem .8rem black;
+  padding: 0.9rem;
+}
+
+.caption p{
+  font-weight: bold;
+}
+.caption{
+  width = 100%;
+  max-width: 100%;
+  position: absolute;
+  top: 9%;
+  z-index: 1;
+}
+/*-----End landing page---------*/
+body{
+  overflow-x: hidden;
+  background-color: black;
+}
+
+.jumbotron{
+  width: 38.9rem;
+  height: 10rem;
+  background-color: grey;
+    background: rgba(0, 0, 0, 0.0001);
+  color: orange;
+  text-align: center;
+}
+
+.wrapper{
+  position: absolute;
+  top: 85%;
+  left: 13%;
+  width: 20%;
+  height: 1%;
+  transform: translate(50%,50%);
+  padding:45px;
+  border-radius: 5px;
+}
+
+.wrapper h2 {
+  text-align: center;
+  margin-bottom: 5px;
+  letter-spacing: 3px;
+  font-size: 15px;
+  text-align: center;
+  color: red;
+  text-shadow: .1rem .1rem .5rem black;
+}
+
+.wrapper .input-field{
+  margin-bottom: 1px;
+}
+
+.wrapper .input-field input[type="text"],
+.wrapper textarea{
+  width: 150%;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.wrapper .input-field label{
+  color: orange;
+  font-size: 10px;
+}
+
+
+.wrapper textarea{
+  height: 80px;
+  resize: none;
+}
+
+.column {
+  float: left;
+  width: 430px;
+}
+
+.column img{
+  height: 18rem;
+}
