@@ -5,13 +5,13 @@ This build is a web application designed to let user's calculate what their Akan
 # **AUTHOR**
 [Akarad](https://github.com/Akarad)
 
-#Technologies Used
+#**Technologies Used**
 This is a webpage written in HTML and JavaScript and designed with custom CSS and Bootstrap styling.
 
-# Setup Instructions
+# **Setup Instructions**
 Good news! You do not need to run a server or install any dependencies in order for this site to work. Absolutely no set up is required on your databases.There is also no other code this app depends on.
 
-# Support and contact details
+# **Support and contact details**
 
   Want to contribute? Great!
 
@@ -27,15 +27,15 @@ Good news! You do not need to run a server or install any dependencies in order 
 
   In case you run into any issues or have questions, ideas or concerns, feel free to contact contat me on dianaakara@gmail.com
 
-# Screenshot of Webpage
+# **Screenshot of Webpage**
 ![Screenshot](https://user-images.githubusercontent.com/64423656/83358869-2d099c00-a37f-11ea-9c8b-d6372e4393e3.png)
 
 
-## Link to Webpage
+## **Link to Webpage**
 https://akarad.github.io/calculator-akan-name/
 
 
-## Akan name Formula source.
+## **Akan name Formula source**
 The formula used to create this Akan name Calculater was derived from the following site: https://artofmemory.com/blog/how-to-calculate-the-day-of-the-week-4203.html
 
 
