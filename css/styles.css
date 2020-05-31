@@ -69,6 +69,10 @@ h1 {
   text-shadow: .1rem .1rem .5rem black;
 }
 
+p{
+  color: orange;
+}
+
 .wrapper h2 {
   text-align: center;
   margin-bottom: 5px;
