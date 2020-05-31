@@ -11,6 +11,10 @@ This is a webpage written in HTML and JavaScript and designed with custom CSS an
 # **Setup Instructions**
 Good news! You do not need to run a server or install any dependencies in order for this site to work. Absolutely no set up is required on your databases.There is also no other code this app depends on.
 
+# **Known Bugs**
+
+There are no known bugs so far.
+
 # **Support and contact details**
 
   Want to contribute? Great!
