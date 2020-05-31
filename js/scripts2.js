@@ -144,5 +144,5 @@ function calculateAkan(date,month,year,gender){
     var akanName = femaleAkan[dayInteger];
   }
 
-  alert("You were born on a " + dayBorn + " so your Akan name is " + akanName);
+  alert("You were born on a " + dayBorn + ". Your Akan name is " + akanName);
 }
