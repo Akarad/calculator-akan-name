@@ -7,10 +7,27 @@ and then give you your **AKAN** name which is a Ghanian tradition of naming peop
 [Akarad](https://github.com/Akarad)
 
 # Setup Instructions
-You should start by :
-  - git clone `https://github.com/Akarad/akan-name.git`
-  - Select the folder you cloned the repository to.
-  - Then open the folder with atom.
+Good news! You do not need to run a server or install any dependencies in order for this site to work. Absolutely no set up is required on your databases.There is also no other code this app depends on.
+
+# Support and contact details
+
+  Want to contribute? Great!
+
+  To fix a bug or enhance an existing module, follow these steps:
+
+  * Fork the repo
+  * Create a new branch (git checkout -b improve-feature)
+  * Make the appropriate changes in the files
+  * Add changes to reflect the changes made
+  * Commit your changes (git commit -am 'Improve feature')
+  * Push to the branch (git push origin improve-feature)
+  * Create a Pull Request
+
+  In case you run into any issues or have questions, ideas or concerns, feel free to contact contat me on dianaakara@gmail.com
+
+
+
+
 
 
 # Screenshot of Webpage
