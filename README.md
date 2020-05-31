@@ -31,7 +31,8 @@ Good news! You do not need to run a server or install any dependencies in order 
 
 
 # Screenshot of Webpage
- ![](Screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/64423656/83358869-2d099c00-a37f-11ea-9c8b-d6372e4393e3.png)
+
 
 ## Link to Webpage
 https://akarad.github.io/calculator-akan-name/
