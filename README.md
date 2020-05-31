@@ -5,7 +5,7 @@ This build is a web application designed to let user's calculate what their Akan
 # **AUTHOR**
 [Akarad](https://github.com/Akarad)
 
-#**Technologies Used**
+# **Technologies Used**
 This is a webpage written in HTML and JavaScript and designed with custom CSS and Bootstrap styling.
 
 # **Setup Instructions**
