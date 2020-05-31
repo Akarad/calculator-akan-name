@@ -109,3 +109,7 @@ h1 {
 .column img{
   height: 18rem;
 }
+
+.column2 img{
+  float: center;
+}
