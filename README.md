@@ -12,8 +12,9 @@ You should start by :
   - Select the folder you cloned the repository to.
   - Then open the folder with atom.
 
+
 # Screenshot of Webpage
-https://github.com/Akarad/calculator-akan-name/issues/2#issue-627966766
+ ![](Screenshot.png)
 
 ## Link to Webpage
 https://akarad.github.io/calculator-akan-name/
