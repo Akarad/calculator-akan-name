@@ -32,8 +32,7 @@ There are no known bugs so far.
   In case you run into any issues or have questions, ideas or concerns, feel free to contact contat me on dianaakara@gmail.com
 
 # **Screenshot of Webpage**
-![Screenshot](https://user-images.githubusercontent.com/64423656/83358869-2d099c00-a37f-11ea-9c8b-d6372e4393e3.png)
-
+![Screenshot](https://user-images.githubusercontent.com/64423656/83359309-24ff2b80-a382-11ea-936d-f15ce49cb5ee.png)
 
 ## **Link to Webpage**
 https://akarad.github.io/calculator-akan-name/
